@@ -5,9 +5,7 @@
 [![](https://tokei.rs/b1/github/VincentGsell/GS.3DRasterStandAlone?category=comments)](https://github.com//VincentGsell/GS.Demos.3DRasterStandAlone)
 
 # GS.Demos.3DRasterStandAlone
-  3D raster exemple, all in one unit, learning aims!
-  
-  [Alt text](/gitimg/ZBufferDisplay.png?raw=true "ZBuffer")
+  3D raster exemple, all in one unit, learning aims ![Alt text](/gitimg/ZBufferDisplay.png?raw=true "ZBuffer")
 
 # Goal : 
 In order to undestand well, how, basicaly, work a 3d rater process.
